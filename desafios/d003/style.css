@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 80px;
+}
+img{
+    width: 210px;
+}
+
+
+p{
+    text-align: center;
+    color: aliceblue;
+   font-size: 30px;
+}
+
+
+body{
+    background-color: yellowgreen;
+}
