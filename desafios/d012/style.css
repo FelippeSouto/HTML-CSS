@@ -18,5 +18,11 @@ header > h1{
     color: white;
     font-family: "Nerko One", cursive;
     font-weight: 400;
-    font-style: normal;
+    font-style: initial;
+}
+
+p > a{
+    font-family: "Nerko One", cursive;
+    color: white;
+    text-decoration: none;
 }
