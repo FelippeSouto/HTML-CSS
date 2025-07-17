@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+    align-items: center;
+    box-sizing: border-box;
+    justify-content: center;
+    background-color: aqua;
+    
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.caixa{
+    text-align: center;
+    color: white;
+    background-color: black;
+    width: 400px;
+    height: 400px;
+    border-radius: 5px;
+}
